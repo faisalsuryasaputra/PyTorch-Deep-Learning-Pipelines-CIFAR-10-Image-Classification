@@ -8,15 +8,6 @@ An end-to-end implementation and progression of Deep Neural Network architecture
 
 ---
 
-## 📌 Repository Name Ideas
-
-Here are a few recommended naming options for your GitHub repository:
-- `pytorch-cifar10-deep-learning` *(Recommended)*
-- `cifar10-pytorch-abstractions`
-- `pytorch-image-classification-cifar10`
-
----
-
 ## 🚀 Project Overview
 
 The goal of this project is to build, train, and evaluate various deep learning architectures using PyTorch while exploring its different levels of abstraction. 
