@@ -129,7 +129,7 @@ Matplotlib
 
 Clone the repository:
 
-git clone https://github.com/your-username/pytorch-cifar10-deep-learning.git
+git clone https://github.com/faisalsuryasaputra/PyTorch-Deep-Learning-Pipelines-CIFAR-10-Image-Classification.git
 cd pytorch-cifar10-deep-learning
 
 
