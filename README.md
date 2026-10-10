@@ -1,0 +1,2 @@
+# PyTorch-Deep-Learning-Pipelines-CIFAR-10-Image-Classification
+An end-to-end implementation and progression of Deep Neural Network architectures for image classification on the CIFAR-10 dataset using PyTorch. This project demonstrates different levels of PyTorch abstractions—from low-level functional APIs (Barebones) to object-oriented modules (nn.Module) and high-level sequential containers (nn.Sequential).
